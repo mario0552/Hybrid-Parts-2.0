@@ -1,5 +1,9 @@
 function ProductDetail() {
-  return <div></div>;
+  return (
+    <div>
+      <h1>DETALLE</h1>
+    </div>
+  );
 }
 
 export default ProductDetail;
